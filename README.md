@@ -18,7 +18,7 @@ To use this project, you need to have Python installed on your machine. Addition
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/RootWordStemGenerator.git
+git clone https://github.com/andrewzaia/RootWordStemGenerator.git
 cd RootWordStemGenerator
 ```
 
